@@ -29,7 +29,6 @@ The CoNiC ecosystem is a set of interconnected, yet independent software tools d
 | Repository | Description |
 |------------|-------------|
 | [neurolytics](https://github.com/conic-lab/neurolytics) | Advanced neural data analysis, metrics, and visualization |
-| [linguistic-tasks](https://github.com/conic-lab/linguistic-tasks) | Cognitive psycholinguistic tasks and structured sequence processing |
 | [conic-core](https://github.com/conic-lab/conic-core) | Core utilities and shared components for the CoNiC ecosystem |
 | [conic-models](https://github.com/conic-lab/conic-models) | Neural network models with varying levels of biophysical detail |
 | [conic-simulator](https://github.com/conic-lab/conic-simulator) | Simulation engines for neural models |
@@ -44,7 +43,6 @@ The CoNiC ecosystem is a set of interconnected, yet independent software tools d
 While the tools above can be used together as part of the CoNiC ecosystem, several are designed to function as fully independent, standalone packages:
 
 - **[neurolytics](https://github.com/conic-lab/neurolytics)**: A comprehensive toolkit for neural data analysis that can be used with any neural data source
-- **[linguistic-tasks](https://github.com/conic-lab/linguistic-tasks)**: A library of cognitive tasks focused on language and sequence processing
 
 ## Getting Started
 
@@ -55,7 +53,6 @@ Most packages can be installed directly via pip:
 ```bash
 # Install individual packages
 pip install neurolytics
-pip install linguistic-tasks
 
 # Or install the complete CoNiC ecosystem
 pip install conic
@@ -74,26 +71,19 @@ See the CONTRIBUTING.md file in each repository for specific guidelines.
 ## Publications
 
 Our software tools are developed alongside and support our research. Some key publications include:
-
-- [Publication 1]
-- [Publication 2]
-- [Publication 3]
+(...)
 
 If you use our software in your research, please cite the appropriate packages as detailed in each repository's README.
 
 ## Team
 
-Our lab consists of researchers, developers, and collaborators from around the world. Key members include:
+Our lab consists of researchers, developers, and collaborators from around the world. At the moment, it is mainly a one-man band, relying only on the PI and international collaborators.
 
-- [Your Name](https://github.com/yourusername) - Principal Investigator
-- [Team Member 1](https://github.com/teammember1) - Role
-- [Team Member 2](https://github.com/teammember2) - Role
+- [Renato Duarte](https://github.com/rcfduarte) - Principal Investigator
 
 ## Connect With Us
 
 - 🌐 [Website](https://www.comp-neuro.org/)
-- 📧 [Email](mailto:contact@comp-neuro.org)
-- 🐦 [Twitter](#)
 - 📝 [Publications](https://www.comp-neuro.org/publications)
 
 ## License
