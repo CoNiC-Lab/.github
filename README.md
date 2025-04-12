@@ -1,4 +1,4 @@
-# Computational Neuroscience & Neural Computation (CoNiC) Lab
+# **Co**gnitive **N**euro-**i**nspired **C**omputing Lab 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/conic-lab/.github/main/profile/assets/conic-logo.png" alt="CoNiC Lab Logo" width="300"/>
