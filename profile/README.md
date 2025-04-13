@@ -1,9 +1,7 @@
 # **Co**gnitive **N**euro-**i**nspired **C**omputing Lab 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/conic-lab/.github/main/profile/assets/conic-logo.png" alt="CoNiC Lab Logo" width="300"/>
-  <br>
-  <em>Understanding the biophysical basis of cognition through computational modeling</em>
+  <em>Understanding how the brain computes the mind</em>
 </p>
 
 ## About Us
